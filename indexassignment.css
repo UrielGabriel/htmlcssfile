@@ -1,0 +1,145 @@
+body {
+    background-color:white;
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: 2em;
+    padding-top: 0.5%;
+    padding-left: 5%;
+    padding-bottom: 0.5%;
+    border: 20px ;
+    background-color: #122e22;
+    color: beige;
+    display: flex;
+    justify-content: flex-start; 
+    }   
+    .side-image {
+        margin-left: 400px; /* Adds space on the left of the image */
+        /* You can adjust width and height as needed */
+        width: 400px; 
+        height: 150px; 
+    }
+    .button-container{
+        display: flex;
+        gap: 10px;
+    }
+    .button{
+        display: flex;
+        margin-right: 10px;
+        padding: 10px 20px;
+        border-radius: 50px; /* Makes the button rounded */
+        border: none; /* Remove default border */
+        background-color: #c0ac3a; /* Green background */
+        color: white; /* White text */
+        cursor: pointer;
+    }
+    .button1{
+        padding: 10px 20px;
+        border-radius: 50px; /* Makes the button rounded */
+        border: none; /* Remove default border */
+        background-color: #4CAF50; /* Green background */
+        color: white; /* White text */
+        cursor: pointer;
+    }
+    .button2{
+        padding: 10px 20px;
+        border-radius: 50px; /* Makes the button rounded */
+        border: none; /* Remove default border */
+        background-color: #000000; /* Green background */
+        color: white; /* White text */
+        cursor: pointer;
+    }
+    .bb-container{
+        display: flex;
+        gap: 1px;
+    }
+    .b-container{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: 2em;
+    padding-top: 0.5%;
+    padding-left: 5%;
+    padding-bottom: 1.5%;
+    border: 20px ;
+    color: #000000;
+    display: flex;
+    justify-content: flex-start; 
+    margin-right: 200px;
+    }
+    .furn-image{
+        display: flex;
+        padding-top: 0%;
+        margin-left: -100px; /* Adds space on the left of the image */
+        /* You can adjust width and height as needed */
+        width: 350px; 
+        height: 300px; 
+    }
+    .furn-image1{
+        margin-left: 20px;;
+    }
+    .furn-image2{
+        margin-left: 100px;
+    }
+    .furn-image3{
+        margin-left: 100px;
+    }
+    .prices{
+        display: flex;
+    }
+    .price1{
+        margin-left: 500px;
+    }
+    .price2{
+        margin-left: 320px;
+    }
+    .price3{
+        margin-left: 280px;
+    }
+    .explanation{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font: 2em;
+        padding-top: 0.5%;
+        padding-left: 5%;
+        padding-bottom: 0.5%;
+    }
+    .outline1{
+        display: flex;
+        gap: 33px;
+        margin-right: 650px;
+        
+    }
+    .outline2{
+        display: flex;
+       
+
+        
+    }
+    .image-logo1{
+        display: flex;
+        height: 55px;
+        width: 55px;
+    }
+    .image-logo2{
+        display: flex;
+        height: 55px;
+        width: 55px;
+    }
+    .image-logo3{
+        display: flex;
+        height: 55px;
+        width: 55px;
+    }
+    .image-logo4{
+        display: flex;
+        height: 55px;
+        width: 55px;
+    }
+    .image-logo5{
+        display: flex;
+        height: 400px;
+        width: 370px;
+    }
+
+
+    
